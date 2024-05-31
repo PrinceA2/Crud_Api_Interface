@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudApi_using_interface.props" />
+</Project>
