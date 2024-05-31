@@ -1,0 +1,8 @@
+id	|Sname	|marks	|Saddress
+2 |Prince |80 |Kannauj
+4 |Sparsh |50 |Noida
+5 |Ankit |0 |Kanpur
+6 |Pratham |60 |Mirzapur
+7 |Paras |80 |Mathura
+8 |Jon Doe |90 |USA
+9 |John |90 |123 Main St
